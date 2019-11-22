@@ -1,0 +1,8 @@
+REQUISITOS:
+	- Todos los estudiantes deben tomar las clases que les corresponden
+	- Puede cambiar el grupo de la clase dependiendo de las desiciones anteriores
+	- Cualquier permutación en la cual no se cambie el tipo de aula y la capacidad de las aulas sean apropiadas es una solucion valida tambien
+	- Restriccio
+
+IDEAS:
+	- 
